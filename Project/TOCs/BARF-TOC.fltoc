@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/BARF/Cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.Print"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    BreakType="chapter"
+    PageType="title"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/What is BARF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1"
+      PageNumberFormat="decimal"
+      BreakType="chapter"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/Why You Should Choose BARF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumber="1"
+      BreakType="chapter"
+      PageNumberReset="continue"
+      ChapterNumberReset="continue"
+      SectionNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/Food Groups.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumber="1"
+      BreakType="chapter"
+      PageNumberReset="continue"
+      ChapterNumberReset="continue"
+      SectionNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/BARF/Foods to Avoid.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        StartSection="true"
+        PageNumber="1"
+        BreakType="chapter"
+        PageNumberReset="continue"
+        ChapterNumberReset="continue"
+        SectionNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/Balancing the Meals.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="true"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageNumber="1"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/How Much Food.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumber="1"
+      BreakType="chapter"
+      PageNumberReset="continue"
+      ChapterNumberReset="continue"
+      SectionNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/Basic Rules of Food Preparation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumber="1"
+      BreakType="chapter"
+      PageNumberReset="continue"
+      ChapterNumberReset="continue"
+      SectionNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/BARF/Basic Recipe.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumber="1"
+      BreakType="chapter"
+      PageNumberReset="continue"
+      ChapterNumberReset="continue"
+      SectionNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl" />
+  </TocEntry>
+</CatapultToc>
